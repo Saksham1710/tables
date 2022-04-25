@@ -1,0 +1,29 @@
+/* Programmer: Saksham Vasudev
+   Student id: 300357973 */
+table {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+table th {
+    border: 1px solid black;
+    height: 30px;
+}
+table tr{
+    background-color: blanchedalmond;
+}
+.maze {
+    background-color: red;
+    color: white;
+}
+.end {
+    border: 4px solid darkgreen;
+}
+.span {
+    height: 60px;
+}
+.puzzle {
+    height: 60px;
+}
+.way {
+    height: 60px;
+}
